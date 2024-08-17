@@ -4,8 +4,12 @@
 
 To install the necessary dependencies, run:
 
-To start the project, run:
 npm install
+
+## Start
+
+To start the project, run:
+
 npm start
 
 
